@@ -1,7 +1,7 @@
 # Token
 Mintable, Burnable Token. Will be deployed with a supply of 37500 in each of the 4 chains
 
-# Multisih
+# Multisig
 USD-token supportable multisig contract. Will be deployed with 4 keys, and required num of confirmations as 3.
 
 # whitelisted-crowdsale
